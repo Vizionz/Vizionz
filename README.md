@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<details>
+  <summary>GitHub Stats</summary>
+  <img align="left" alt="Vizionz's GitHub Stats" src="https://github-readme-stats-one-khaki.vercel.app/api?ursername=Vizionz&show_icons=true&hide_border=true" />
+</details>
+
 <!--
 **Vizionz/Vizionz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
